@@ -1,0 +1,18 @@
+vpc:
+  source:  "https://github.com/raghudevopsb66/tf-module-vpc.git"
+  version: "main"
+docdb:
+  source:  "https://github.com/raghudevopsb66/tf-module-docdb.git"
+  version: "main"
+rds:
+  source:  "https://github.com/raghudevopsb66/tf-module-rds.git"
+  version: "main"
+elasticache:
+  source:  "https://github.com/raghudevopsb66/tf-module-elasticache.git"
+  version: "main"
+rabbitmq:
+  source:  "https://github.com/raghudevopsb66/tf-module-rabbitmq.git"
+  version: "main"
+eks:
+  source: "https://github.com/r-devops/tf-module-eks.git"
+  version: "main"
